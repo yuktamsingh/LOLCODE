@@ -1,0 +1,66 @@
+HAI 1.2
+    VISIBLE"Welcome to the LOL Calculator!!"
+    I HAS A VAR1
+    I HAS A VAR2
+    I HAS A OP
+    IM IN YR LOOPY
+      VISIBLE "Enter first number"
+      GIMMEH VAR1
+      VISIBLE "Enter second number"
+      GIMMEH VAR2
+      VISIBLE "Enter a choice 1.+, 2.-, 3./ ,4.* ,5.%(MOD), 6.Comparison, 7. Combination, 8. Permutation"
+      GIMMEH OP 
+    HOW DUZ I FACT YR N
+    BOTH SAEM 0 AN N
+    O RLY?
+     YA RLY
+      FOUND YR 1
+     NO WAI
+      FOUND YR PRODUKT OF N AN FACT DIFF OF N AN 1
+    OIC
+    IF U SAY SO
+    OP, WTF?
+    OMG "1"
+        VISIBLE SUM OF VAR1 AN VAR2
+        VISIBLE ""
+    
+        GTFO
+    OMG "2"
+        VISIBLE DIFF OF VAR1 AN VAR2
+        VISIBLE ""
+    
+        GTFO
+    OMG "3"
+        VISIBLE QUOSHUNT OF VAR1 AN VAR2
+        VISIBLE""
+    
+        GTFO
+    OMG "4"
+        VISIBLE PRODUKT OF VAR1 AN VAR2
+        VISIBLE""
+    
+        GTFO
+    OMG "5"
+        VISIBLE MOD OF VAR1 AN VAR2
+        VISIBLE""
+    
+        GTFO
+    OMG "6"
+        VISIBLE "This number is greater." BIGGR OF VAR1 AN VAR2
+        VISIBLE""
+        GTFO
+    OMG "7"
+        VISIBLE VAR1"C"VAR2"=" QUOSHUNT OF FACT VAR1 AN PRODUKT OF FACT VAR2 AN FACT DIFF OF VAR1 AN VAR2
+        VISIBLE""
+        GTFO
+    OMG "8"
+        VISIBLE VAR1"P"VAR1"="QUOSHUNT OF FACT VAR1 AN FACT DIFF OF VAR1 AN VAR2
+        VISIBLE""
+
+        GTFO
+    OMGWTF
+        VISIBLE "You have to choose an operation."
+        VISIBLE""
+    OIC
+  IM OUTTA YR LOOPY
+KTHXBYE
